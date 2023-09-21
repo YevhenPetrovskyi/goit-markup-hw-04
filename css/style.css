@@ -96,11 +96,12 @@ address {
         align-items: center;
         gap: 40px;
 }
-.nav-list-item {
-    padding: 24px 0;
+.link {
+    display: inline-block;
 }
-.contacts-list-item {
-    padding: 24px 0;
+.nav-list-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .contacts-link {
     color: #434455;
