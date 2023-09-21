@@ -123,7 +123,7 @@ address {
     display: inline-flex;
         align-items: flex-start;
         gap: 40px;
-    margin-right: 329px;
+    margin-right: 332px;
 }
 /** Hero */
 .hero {
@@ -240,15 +240,6 @@ display: flex;
 }
 .logo-footer-accent {
     color: #f4f4fd;
-    display: inline-block;
-}
-.footer-container {
-    display: flex;
-        flex-direction: column;
-        justify-content: center;
-}
-.footer-text {
-    width: 264px;
 }
 .logo-footer {
     font-family: 'Raleway', sans-serif;
@@ -260,4 +251,12 @@ display: flex;
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 16px;
+}
+/* .footer-container {
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+} */
+.footer-text {
+    width: 264px;
 }
