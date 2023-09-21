@@ -95,7 +95,6 @@ address {
     display: flex;
         align-items: center;
         gap: 40px;
-    padding: 24px 0;
 }
 .contacts-link {
     color: #434455;
@@ -125,6 +124,8 @@ address {
         align-items: flex-start;
         gap: 40px;
     margin-right: 329px;
+}
+.nav-list-item {
     padding: 24px 0;
 }
 /** Hero */
@@ -265,8 +266,6 @@ display: flex;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}
-.footer .footer-container .logo-footer {
     display: inline-block;
     margin-bottom: 16px;
 }
