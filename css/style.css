@@ -111,22 +111,19 @@ address {
 .site-nav {
     display: flex;
     align-items: center;
+    padding: 24px 0;
 }
 .page-header-container {
     display: flex;
         justify-content: center;
         align-items: center;
         flex-shrink: 0;
-        padding: 0 15px;
 }
 .site-nav-list {
     display: inline-flex;
         align-items: flex-start;
         gap: 40px;
     margin-right: 329px;
-}
-.nav-list-item {
-    padding: 24px 0;
 }
 /** Hero */
 .hero {
@@ -235,12 +232,6 @@ display: flex;
     border: 1px solid #E7E9FC;
     border-top: none;
 }
-/* .portfolio-list-border .list-title {
-    margin-left: 16px;
-}
-.portfolio-list-border .list-text {
-    margin-left: 16px;
-} */
 /** footer */
 .footer {
     color: #F4F4FD;
@@ -249,6 +240,7 @@ display: flex;
 }
 .logo-footer-accent {
     color: #f4f4fd;
+    display: inline-block;
 }
 .footer-container {
     display: flex;
