@@ -95,6 +95,11 @@ address {
     display: flex;
         align-items: center;
         gap: 40px;
+}
+.nav-list-item {
+    padding: 24px 0;
+}
+.contacts-list-item {
     padding: 24px 0;
 }
 .contacts-link {
@@ -112,7 +117,6 @@ address {
 .site-nav {
     display: flex;
     align-items: center;
-    padding: 24px 0;
 }
 .page-header-container {
     display: flex;
