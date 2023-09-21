@@ -95,6 +95,7 @@ address {
     display: flex;
         align-items: center;
         gap: 40px;
+    padding: 24px 0;
 }
 .contacts-link {
     color: #434455;
@@ -118,6 +119,7 @@ address {
         justify-content: center;
         align-items: center;
         flex-shrink: 0;
+    
 }
 .site-nav-list {
     display: inline-flex;
@@ -252,11 +254,6 @@ display: flex;
     display: inline-block;
     margin-bottom: 16px;
 }
-/* .footer-container {
-    display: flex;
-        flex-direction: column;
-        justify-content: center;
-} */
 .footer-text {
     width: 264px;
 }
