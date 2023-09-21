@@ -99,10 +99,10 @@ address {
 .link {
     display: inline-block;
 }
-.nav-list-item {
+/* .nav-list-item {
     padding-top: 24px;
     padding-bottom: 24px;
-}
+} */
 .contacts-link {
     color: #434455;
     line-height: 1.5;
@@ -124,7 +124,8 @@ address {
         justify-content: center;
         align-items: center;
         flex-shrink: 0;
-    
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .site-nav-list {
     display: inline-flex;
